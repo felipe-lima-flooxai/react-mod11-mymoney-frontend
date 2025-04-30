@@ -10,8 +10,21 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "admin-lte": "^2.4.18",
+    "axios": "^0.27.2",
+    "font-awesome": "^4.7.0",
+    "ionicons": "^3.0.0",
+    "lodash": "^4.17.21",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-redux": "^7.2.8",
+    "react-redux-toastr": "^7.6.10",
+    "react-router": "^5.3.4",
+    "redux": "^4.2.1",
+    "redux-form": "^8.3.10",
+    "redux-multi": "^0.1.12",
+    "redux-promise": "^0.6.0",
+    "redux-thunk": "^2.4.2"
   },
   "devDependencies": {
     "@eslint/js": "^9.22.0",
